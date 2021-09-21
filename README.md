@@ -1,2 +1,2 @@
 # estudo_estat-descritiva_python
-Simples estudo aplicando estatística descritiva em Python
+Estudo -  estatística descritiva em Python
